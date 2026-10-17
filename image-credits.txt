@@ -1,0 +1,17 @@
+Photographic assets used by Italiana Elevators
+hero-1.jpg: Elevators vestibule with flower bouquets at InterContinental Hotel Singapore — Basile Morin. CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Elevators_vestibule_with_flower_bouquets_at_InterContinental_Hotel_Singapore.jpg
+hero-2.jpg: Interior of Panoramic VEK Elevator in Beton Brut Hotel (Anapa) — ООО ТД "Век". CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Interior_of_Panoramic_VEK_Elevator_in_Beton_Brut_Hotel_%28Anapa%29.jpg
+hero-3.jpg: A glass elevator. In a library? — mitchley_01. CC BY-SA 3.0. Source: https://commons.wikimedia.org/wiki/File:A_glass_elevator._In_a_library%3F.jpg
+category-residential.jpg: Destination control elevator interior — Edward Orde. CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Destination_control_elevator_interior.jpg
+category-commercial.jpg: 570 Lexington Ave- Elevator Interior Detail — Geslin George. CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:570_Lexington_Ave-_Elevator_Interior_Detail.JPG
+category-healthcare.jpg: New childrens hospital helsinki elevator interior 01 — Sinikka Halme. CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:New_childrens_hospital_helsinki_elevator_interior_01.jpg
+category-panoramic.jpg: Galata Kulesi-Interior of an elevator-2 — MAST Asansör. CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Galata_Kulesi-Interior_of_an_elevator-2.jpg
+project-residential.jpg: Elevator Interior, Carnegie Museum, Pittsburgh, 2019-12-11, 02 — Cbaile19. CC0. Source: https://commons.wikimedia.org/wiki/File:Elevator_Interior%2C_Carnegie_Museum%2C_Pittsburgh%2C_2019-12-11%2C_02.jpg
+project-commercial.jpg: Elevator lobby — Patricia Layman Bazelon. Public domain. Source: https://commons.wikimedia.org/wiki/File:Elevator_lobby.jpg
+project-panoramic.jpg: Interior of Elevator of Dream Mall 2024-01-17 — 阿道. CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Interior_of_Elevator_of_Dream_Mall_2024-01-17.jpg
+project-healthcare.jpg: Ochsner Medical Center, Main Campus, parking garage, interior of elevator, Louisiana 2023 corner — Infrogmation. CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Ochsner_Medical_Center%2C_Main_Campus%2C_parking_garage%2C_interior_of_elevator%2C_Louisiana_2023_corner.jpg
+feature-detail.jpg: Destination control elevator interior 2 — Edward Orde. CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Destination_control_elevator_interior_2.jpg
+
+article-modernization.jpg: Elevator interior Buffalo City Hall NY 2025-09-09 09-55-06 1.jpg — <a href="//commons.wikimedia.org/wiki/User:Lorax" title="User:Lorax">G. Edward Johnson</a>. CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:Elevator_interior_Buffalo_City_Hall_NY_2025-09-09_09-55-06_1.jpg
+
+article-entrance.jpg: Open elevator doors, Hotel Murano, Tacoma, Washington.jpg — <a href="//commons.wikimedia.org/wiki/User:Mxn" title="User:Mxn">Mxn</a>. CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Open_elevator_doors%2C_Hotel_Murano%2C_Tacoma%2C_Washington.jpg
